@@ -17,9 +17,9 @@
     "babel-loader": "^8.0.4",
     "path": "^0.12.7",
     "prop-types": "^15.7.1",
-    "react": "^16.7.0",
+    "react": "^16.14.0",
     "react-axios": "^2.0.3",
-    "react-dom": "^16.7.0"
+    "react-dom": "^16.14.0"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^4.0.0",
